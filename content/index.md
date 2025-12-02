@@ -8,5 +8,5 @@ En attendant que je centralise tout ici, vous pouvez aller voir mes précédents
 Clément Chapuis
 
 ***
-[Blog notion](https://spiky-wildebeest-0fa.notion.site/Cr-ations-245c7951781381eda857c5e4b14028e5)
+[Blog notion](https://spiky-wildebeest-0fa.notion.site/Cr-ations-245c7951781381eda857c5e4b14028e5)  
 [Playlist Youtube](https://youtube.com/playlist?list=PLpxZyZzI7a45cgXRkjTfq4UcWAWgrssYT&si=xH0QffPq1v_LdASL)
