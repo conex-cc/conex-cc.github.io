@@ -11,7 +11,6 @@ Aujourd'hui la valeur monétaire à tendance à avoir plus de valeur à nos yeux
 - "Je te paye te faisant vivre une expérience, pour ce bien/service" (valeur des expériences), etc.
 
 Cette tendance semble s'expliquer par le fait que posséder de la valeur monétaire donne des privilèges. Et que notre mode de vie dans la société, fait que nous en avons besoin d'un minimum pour manger et dormir. Mais aussi que l'humain a une tendance à ne jamais être satisfait de ce qu'il a, en cherchant à avoir toujours plus de droit, de liberté, de confort, de pouvoir, bref toujours plus de privilège. Et ceux même s'il en possède un niveau déjà élevé.  
-A partir de là, si nous souhaitons donner plus de place aux autres valeurs, il faut adopter un mode de vie qui nous coûte moins en valeur monétaire, mais plus dans les autres valeurs pour subvenir à nos besoins. Et/Ou d'accepter d'avoir moins de privilèges dans la société.
 
 **L'argent donne des privilèges** à leurs détenteurs. Ou plus exactement, il permet d'acheter des privilèges pouvant être permanent ou éphémères. Ils confèrent des droits, de la liberté, du confort et du pouvoir. Par exemple, l'argent donne le droit : 
 - De prendre une pomme/figurine sur l'étalage d'un commerce
