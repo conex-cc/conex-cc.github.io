@@ -2,7 +2,7 @@
 title: Réflexion sur l'argent et la place qu'il occupe dans nos vies
 ---
 **L'argent régit nos vies, mais qu'est-ce que c'est au juste ?**  
-L'argent est un outil conceptuel de la valeur. C'est à dire qu'il nous permet de nous faire une représentation mentale de la valeur. Cette valeur conceptualisé par l'argent, se nomme la valeur monétaire. La distinguant des autres formes de valeur, comme par exemple la valeur des amitiés, de l'entraide, du partage, de l'écoute, des petites intentions, de la prière, des expériences, etc. La valeur étant tout ce qui a de la valeur à nos yeux.  
+L'argent est un outil conceptuel de la valeur. C'est à dire qu'il nous permet de nous faire une représentation mentale de la valeur. Cette valeur conceptualisé par l'argent, se nomme la valeur monétaire. La distinguant des autres formes de valeur, comme par exemple la valeur du temps, des amitiés, de l'entraide, du partage, de l'écoute, des petites intentions, de la prière, des expériences, etc. La valeur étant tout ce qui a de la valeur à nos yeux.  
 Comme tous ces exemples, l'argent a de la valeur car nous croyons (collectivement) qu'elle en a. Si demain plus personne reconnait sa valeur alors elle perdra automatique toute sa valeur.  
 Petite aparté, à partir du moment ou nous accordons de la valeur à quelqu'un ou quelque chose ou qu'on pense qu'on nous accorde de la valeur, alors nous sommes croyant. La valeur existe car nous croyons qu'elle existe. Par exemple : Je crois en l'amour de notre relation. A méditer…
 
