@@ -2,7 +2,7 @@
 title: Mon jardin numérique
 ---
 Bienvenue dans mon **jardin numérique Deepconex**. C'est en quelque sorte mon cerveau externe ou bien mon Wikipedia personnel.  
-C'est ici que j'y cultive mes connaissances, mes réflexions et mes idées. Ce jardin nourri mon intellect afin de comprendre un peu mieux le bourbier de la vie. Cette compréhension digéré me permet d'affiner ma perception de la vie et de construire mon identité là-dedans.
+C'est ici que j'y cultive mes connaissances, mes réflexions et mes idées. Ce jardin nourri mon intellect afin de comprendre un peu mieux le bourbier de la vie. Cette compréhension digérée me permet d'affiner ma perception de la vie et de construire mon identité là-dedans.
 
 Maintenant, sentez vous libre de déambuler dans ce jardin en suivant votre curiosité, où vous y trouverez toutes mes récoltes intellectuelles.
 
