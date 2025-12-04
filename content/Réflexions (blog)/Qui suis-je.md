@@ -14,7 +14,7 @@ Fait intéressant la réponse à la question "Pourquoi vivre ?" semble être "Qu
 Je m'explique. Qui suis-je ? A l'échelle de la vie, je suis un être vivant dotée de **besoin à combler** afin de vivre une existence agréable, c'est à dire m'épanouir.  
 Donc, pourquoi vivre ? Pour **combler mes besoin** afin de vivre. En d'autre terme, notre raison d'être : vivre. Nous sommes voué à vivre, c'est notre vocation.
 
-Maintenant il n'y a pas que notre condition d'être vivant ou d'être humain qui nous définit construisant notre identité. Il y a également notre [[La singularité|singularité]] composé de nos [[Croyances|croyances]] et de nos actions.
+Maintenant il n'y a pas que notre condition d'être vivant ou d'être humain qui nous définit, qui construit notre identité. Il y a également notre [[La singularité|singularité]] composée de nos [[Croyances|croyances]] et de nos actions.
 Une grande partie de **notre identité singulière se construit sur nos croyances**. En effet de nos croyances se construit notre vision du monde et conditionne nos actions. Typiquement avoir des [[Croyances limitantes|croyances limitantes]] comme se penser fermement nul dans quelque chose nous rendra fatalement nul dans cette chose. On comprend qu'il est important de prendre le temps de remettre en question ces croyances, pour se construire des croyances aidantes. 
 
 # Journal personnel
@@ -58,4 +58,4 @@ Amen
 
 La prière ou la méditation (appelé ça comme vous voulez), sont des moments me permettant de questionner mon sens conceptuel. Est-ce que ce sens fait encore sens. Fût un temps mon sens conceptuel était : combler mes besoins et aider mon entourage à faire de même. Ce n'est que récemment que j'ai remis l'amour au centre de ma vie. Si notre sens fait toujours sens, alors ces moments permettent s'y reconnecter, de l'entretenir, de le cultiver pour ne pas s'égarer
 
-Aparté : Les religions donnent un sens conceptuel à la vie. Adhérer à une religion peut nous être bénéfique pour vivre, le problème vient lorsque l'on croit en une religion sans jamais avoir remis en question son sens conceptuel. Cela signifie que l'on a accepté qu'une personne moral (la religion) décide pour nous, le sens de notre vie. On a encore la chance d'avoir notre libre arbitre, alors je vous en conjure servez-vous en.
+Aparté : Les religions donnent un sens conceptuel à la vie. Adhérer à une religion peut nous être bénéfique pour vivre, le problème vient lorsque l'on croit en une religion sans jamais avoir remis en question son sens. Cela signifie que l'on a accepté qu'une personne moral (la religion) décide pour nous, le sens de notre vie. On a encore la chance d'avoir notre libre arbitre, alors je vous en conjure servez-vous en.

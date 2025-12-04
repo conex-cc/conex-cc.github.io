@@ -3,7 +3,7 @@ type:
   - réflexion
 date: 2025-11-22
 ---
-[[Vivre]] - [[Le sens de la vie]]
+[[La vie]]
 ***
 Vivre est un sacré bourbier. L'expérimenter est complètement inutile et absurde, en plus d'être inconfortable et difficile dès qu'on traverse des difficultés de la vie ou que l'on souhaite progresser. Mais d'un autre côté il n'y a rien de plus étrange et mystérieux que la vie créant toute sa beauté.  
 Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Mais aussi avoir de la curiosité, des objectifs, des aspirations, des projets. Bref, des choses purement imaginaire mais donnant du sens au non sens. Afin de donner un sens conceptuel à notre vie, afin de lui donner une direction. Ce sens deviendra la quête de notre vie.
