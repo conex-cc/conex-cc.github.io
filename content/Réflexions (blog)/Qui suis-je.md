@@ -7,7 +7,7 @@ date: 2025-12-04
 [[L'ego]]
 ***
 # Une question existentielle
-"**Qui suis-je ?**" et ces copines "**Qui ai-je envie de devenir ?**" ou "**[[Pourquoi vivre]] ?**", sont les question existentielle par excellence.  
+"**Qui suis-je ?**", "**Qui ai-je envie de devenir ?**" ou "**[[Pourquoi vivre]] ?**", sont les question existentielle par excellence.  
 
 Fait intéressant la réponse à la question "Pourquoi vivre ?" semble être "Qui suis-je ?".  
 => Pourquoi vivre ? Réponse : Qui suis-je ?  
