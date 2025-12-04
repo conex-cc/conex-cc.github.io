@@ -20,8 +20,8 @@ Une grande partie de **notre identité singulière se construit sur nos croyance
 # Journal personnel
 Je vous propose ici une ébauche d'introspection, tentant de répondre à cette question.
 
-**Qui suis-je**, à l'échelle de mon individualité ? Quel est mon identité singulière ?
-Pour commencer je peux dire que je suis de nature calme et introverti, mais également joueur avec le rire facile. Je suis sensible aux valeurs de solidarité, d'entraide, de générosité, de sobriété ou de l'effort.  Je me définit également chanteur, danseur, acrobate, grimpeur ou comédien. Mais aussi comme un explorateur cherchant à renouer contact avec l'inconfort de la nature afin de développer résilience, résistance, force et humilité.
+**Qui suis-je**, à l'échelle de mon individualité ? Quel est mon identité singulière ?  
+Pour commencer je peux dire que je suis de nature calme et introverti, mais également joueur avec le rire facile. Je suis sensible aux valeurs de solidarité, d'entraide, de générosité, de sobriété ou de l'effort.  Je me définit également comme chanteur, danseur, acrobate, grimpeur ou comédien. Mais aussi comme un explorateur cherchant à renouer contact avec l'inconfort de la nature afin de développer résilience, résistance, force et humilité.
 
 Une grande partie de **notre identité singulière se construit sur nos croyances**. Alors quelles sont elles ? Quel est ma vision du monde construite par mes croyances ?  
 
