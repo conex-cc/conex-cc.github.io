@@ -27,7 +27,8 @@ Une grande partie de **notre identité singulière se construit sur nos croyance
 
 Je crois que :  
 [[Vivre est complètement inutile et absurde]] en plus d'être inconfortable et difficile dès qu'on traverse des difficultés de la vie ou que l'on souhaite progresser. Mais d'un autre côté il n'y a rien de plus étrange et mystérieux que la vie créant toute sa beauté.  
-Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de beau et de grand, c'est pourquoi je crois en [[L'amour]].
+Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Afin donner un sens conceptuel à notre vie, de lui donner une direction. Ce sens deviendra la quête de notre vie. Libre à chacun de le choisir. Ce sens pour moi se sera [[L'amour]]. Ainsi je vis pour l'amour et je me battrais s'il le faut en son nom.
+
 #### Credo
 Je crois en l'amour,  
 Qui perpétue la vie par sa présence en chacun de nous,  
@@ -55,7 +56,6 @@ Amen
 ####
 *---*
 
-Nous vivons pour vivre, étant donné que l'amour perpétue la vie, **vivre pour l'amour** me semble être la meilleur stratégie à adopter pour vivre.
-Ainsi je vis pour me connecter et entretenir ma boule d'énergie d'amour, en m'aimant, aimant les autres et la nature.
+La prière ou la méditation (appelé ça comme vous voulez), sont des moments me permettant de questionner mon sens conceptuel. Est-ce que ce sens fait encore sens. Fût un temps mon sens conceptuel était : combler mes besoins et aider mon entourage à faire de même. Ce n'est que récemment que j'ai remis l'amour au centre de ma vie. Si notre sens fait toujours sens, alors ces moments permettent s'y reconnecter, de l'entretenir, de le cultiver pour ne pas s'égarer
 
-Aujourd'hui je crois pouvoir dire que l'amour est ma principal source de motivation. Si je me lève le matin c'est pour cultiver cette amour. Et si une action ne me permet pas de l'entretenir, c'est généralement que cette action est superficielle.
+Aparté : Les religions donnent un sens conceptuel à la vie. Adhérer à une religion peut nous être bénéfique pour vivre, le problème vient lorsque l'on croit en une religion sans jamais avoir remis en question son sens conceptuel. Cela signifie que l'on a accepté qu'une personne moral (la religion) décide pour nous, le sens de notre vie. On a encore la chance d'avoir notre libre arbitre, alors je vous en conjure servez-vous en.

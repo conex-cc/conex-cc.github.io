@@ -2,6 +2,8 @@
 type: concept
 date: 2025-12-04
 ---
-\> est absurde
+[[Vivre]]
+***
+\> ~ est absurde
 # Réflexions
 - [[Pourquoi vivre]]
