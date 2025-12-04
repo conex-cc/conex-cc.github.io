@@ -15,7 +15,7 @@ Je m'explique. Qui suis-je ? A l'échelle de la vie, je suis un être vivant dot
 Donc, pourquoi vivre ? Pour **combler mes besoin** afin de vivre. En d'autre terme, notre raison d'être : vivre. Nous sommes voué à vivre, c'est notre vocation.
 
 Maintenant il n'y a pas que notre condition d'être vivant ou d'être humain qui nous définit construisant notre identité. Il y a également notre [[La singularité|singularité]] composé de nos [[Croyances|croyances]] et de nos actions.
-Une grande partie de **notre identité singulière se construit sur nos croyances**. En effet de nos croyances construisent notre vision du monde et conditionne nos actions. Typiquement avoir des croyances limitantes comme se penser fermement nul dans quelque chose nous rendra fatalement nul dans cette chose. On comprend qu'il est important de prendre le temps de remettre en question ces croyances, pour se construire des croyances aidantes. 
+Une grande partie de **notre identité singulière se construit sur nos croyances**. En effet de nos croyances se construit notre vision du monde et conditionne nos actions. Typiquement avoir des [[Croyances limitantes|croyances limitantes]] comme se penser fermement nul dans quelque chose nous rendra fatalement nul dans cette chose. On comprend qu'il est important de prendre le temps de remettre en question ces croyances, pour se construire des croyances aidantes. 
 
 # Journal personnel
 Je vous propose ici une ébauche d'introspection, tentant de répondre à cette question.
