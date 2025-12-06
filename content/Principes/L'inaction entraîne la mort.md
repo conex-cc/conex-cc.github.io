@@ -7,4 +7,4 @@ L'immobilisme est le pire ennemie de la vie
 
 # Principes
 - [[Avancer lentement est toujours mieux que de rester immobile]].
-- Ainsi, La vie est en perpétuelle mouvement [[La vie est en perpétuelle mouvement]]
+- Ainsi, la vie est en perpétuelle mouvement [[La vie est en perpétuelle mouvement]]
