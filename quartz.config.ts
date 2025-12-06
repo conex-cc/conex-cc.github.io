@@ -53,6 +53,12 @@ const config: QuartzConfig = {
       },
     },
   },
+  markdown: {
+    externalLinks: {
+      target: "_blank",
+      rel: "noopener",
+    },
+  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),

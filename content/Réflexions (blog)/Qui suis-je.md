@@ -27,7 +27,7 @@ Une grande partie de **notre identité singulière se construit sur nos croyance
 
 Je crois que :  
 [[Vivre est complètement inutile et absurde]] en plus d'être inconfortable et difficile dès qu'on traverse des difficultés de la vie ou que l'on souhaite progresser. Mais d'un autre côté il n'y a rien de plus étrange et mystérieux que la vie créant toute sa beauté.  
-Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Afin construire un sens conceptuel à notre vie, lui donnant une direction et donnant du sens à l'absurdité de la vie. Cela consiste à construire sa montagne à gravir puis de la gravir, petit pas par petit pas. Ce sens, gravir cette montagne deviendra la quête ultime de notre vie ([[Suivre le sens donné à sa vie]]).
+Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Afin construire un sens conceptuel à notre vie, lui donnant une direction et donnant du sens à l'absurdité de la vie. Cela consiste à construire sa montagne à gravir puis de la gravir, petit pas par petit pas. Ce sens, gravir cette montagne deviendra la quête ultime de notre vie ([[Suivre le sens donné à sa vie]]).  
 Peut importe le sens construit, il doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature**. En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens. Alors voici ce en quoi je crois construisant le sens de ma vie.
 
 #### Credo
@@ -59,7 +59,7 @@ Amen
 
 Ainsi, je vis pour cultiver : 
 - Mon amour propre (soi) : 
-	- En appréciant l'inconfort et la difficulté, à travers des explorations expérimentales (ex : marcher pied nu, prendre des douches froides, etc.), l'acobatie, le chant, le théâtre ou la danse.
+	- En appréciant l'inconfort et la difficulté, à travers des explorations expérimentales (ex : marcher pied nu, prendre des douches froides, etc.), l'acobatie, le chant, le théâtre, la danse ou la réflexion.
 	- En prenant soins de ma santé. Que ce soit par l'alimentation ou le sport.
 - Mon amour pour les autres (l'autre)
 	- En semant la paix et la joie, en étant au service d'un collectif (ami, asso, etc.), partageant mes valeurs.
@@ -68,5 +68,5 @@ Ainsi, je vis pour cultiver :
 	- En combattant pour la préserver dans un monde qui la détruit.
 
 
-Voilà le sens (la montagne) que je me suis construit et que j'œuvre à suivre (à gravir) chaque jours de mon existence. Néanmoins, parfois je doute, je me perd distrait par la facilité, le confort, et les petits plaisirs immédiats. Mais j'essaye tant bien que mal jour après jour de gravir cette montagne.
-Comme dirais Inoxtag : "Mentalité Kazen !" Je vous laisse aller regarder ça vidéo sur son ascension du mont Everest pour comprendre cette ref : [KAIZEN](https://www.youtube.com/watch?v=wrFsapf0Enk)
+Voilà le sens (la montagne) que je me suis construit et que j'essaye de suivre (gravir) chaque jours de mon existence. Néanmoins, parfois je doute, je me perd distrait par la facilité, le confort, et les petits plaisirs immédiats. Mais j'essaye de me recentrer afin gravir tant bien que mal et jour après jour cette montagne.  
+Comme dirais Inoxtag : "Mentalité Kaizen !" Je vous laisse aller regarder ça vidéo sur son ascension du mont Everest pour comprendre cette ref : <a href="https://www.youtube.com/watch?v=wrFsapf0Enk" target="_blank">KAIZEN</a>
