@@ -8,7 +8,7 @@ date: 2024-10-22
 # Principes
 \> car [[Nous sommes voués à échouer]]
 
-\> donc [[Donner du sens à la vie]]
+\> donc [[Suivre le sens donné à sa vie]]
 
 
 # Réflexions

@@ -29,12 +29,11 @@ L'ensemble des êtres vivants et des phénomènes (physique, chimique, etc.)
 - Trouver l'équilibre, c'est toute la difficulté et **l'art de la vie**
 	- car [[Tout est une question d'équilibre]]
 
-***
 # Réflexions
-- **Sens de la vie** : (A l'instar de l'ensemble des être vivants) Satisfaire nos besoins en dansant dans le flux circulaire (de mouvement) de la vie
+\> **Sens de la vie** : (A l'instar de l'ensemble des être vivants) Satisfaire nos besoins en dansant dans le flux circulaire (de mouvement) de la vie
 
-- [[2025-11-22 - Vivre est un sacré bourbier]]  
-- [[Pourquoi vivre]]
+\> [[2025-11-22 - Vivre est un sacré bourbier]]  
+\> [[Pourquoi vivre]]
 
 # Citations
 - "Life is a journey, not a destination"
