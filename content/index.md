@@ -18,7 +18,6 @@ Et en attendant que ce jardin se développe, vous pouvez aller voir mes précéd
 
 # Me contacter
 Instagram : [Deepconex](https://www.instagram.com/deepconex/)  
-Téléphone : 07 82 29 51 03  
 E-mail : clement.chapuis92@gmail.com
 
 
