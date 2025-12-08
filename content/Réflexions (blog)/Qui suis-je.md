@@ -1,7 +1,6 @@
 ---
 type:
   - réflexion
-draft: false
 date: 2025-12-04
 ---
 [[L'ego]]
