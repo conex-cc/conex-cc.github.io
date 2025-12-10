@@ -62,6 +62,7 @@ Ainsi, je vis pour cultiver :
 	- En prenant soins de ma santé. Que ce soit par l'alimentation ou le sport.
 - Mon amour pour les autres (l'autre)
 	- En semant la paix et la joie, en étant au service d'un collectif (ami, asso, etc.), partageant mes valeurs.
+	- En m'engageant dans un collectif faisant rayonner ces membres et étant au service de l'autre.
 - Mon amour pour la nature (la nature)
 	- En la contemplant.
 	- En combattant pour la préserver dans un monde qui la détruit.
