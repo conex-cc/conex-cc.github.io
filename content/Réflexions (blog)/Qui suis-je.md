@@ -27,7 +27,7 @@ Une grande partie de **notre identité singulière se construit sur nos croyance
 Je crois que :  
 [[Vivre est complètement inutile et absurde]] en plus d'être inconfortable et difficile dès qu'on traverse des difficultés de la vie ou que l'on souhaite progresser. Mais d'un autre côté il n'y a rien de plus étrange et mystérieux que la vie créant toute sa beauté.  
 Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Afin construire un sens conceptuel à notre vie, lui donnant une direction et donnant du sens à l'absurdité de la vie. Cela consiste à construire sa montagne à gravir puis de la gravir, petit pas par petit pas. Ce sens, gravir cette montagne deviendra la quête ultime de notre vie ([[Suivre le sens donné à sa vie]]).  
-Peut importe le sens construit, il doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature**. En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens. Alors voici ce en quoi je crois construisant le sens de ma vie.
+Peut importe le sens construit, il doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature**. En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens, un vide, un trou noir existentiel. Alors voici ce en quoi je crois, construisant le sens de ma vie.
 
 #### Credo
 Je crois en l'amour,  

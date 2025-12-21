@@ -7,6 +7,8 @@ date: 2025-12-04
 ***
 Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa raison d'être), fait partie des spécificités des besoins de l'être humain.
 # Principes
+- ~ pour avancer. Par exemple : 
+	- Un bateau pour avancer doit choisir une direction. La direction en soi importe peu mais il lui en faut une. Et bien sûr la direction peut changer, le bateau peut virer de bord
 - ~ est notre vocation, notre destinée
 - Chacun est libre de choisir le sens de sa vie
 - Le sens construit doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature**. En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens. Par exemple : 
@@ -19,3 +21,4 @@ Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa rai
 # Réflexions
 \> Nous devons choisir une montagne à gravir et la gravir. Pourquoi ? Parce que nous devons le faire pour vivre.
 Le choix de la montagne importe peu, tant que son ascension nous fait grandir et à une finalité positive.
+\> Par exemple un bateau pour avancer doit choisir une direction. La direction en soi importe peu mais il lui en faut une. 
