@@ -11,6 +11,7 @@ Les connections avec les autres prennent une infinité de forme (de relation). E
 
 Et parfois deux galaxies se rencontre sous une forme toute particulière. Cette forme que nous connaissons que trop bien dans notre société qui l'idéalise. Oui mesdames et messieurs et non binaire, nous parlons bien ici de la relation amoureuse. Forme naissant du désir sexuel, même si nous avons parfois du mal à assumer ce détail.
 
-Dans ma vision l'amour idéal est l'amour inconditionnel compatible avec tous les types de relation, y compris la relation amoureuse. Et je nous souhaites à tous de construire nos connections galactiques, nos relations importantes à nos yeux avec cette amour. Et d'une façon ou d'une autre, nous devons nous connecter à soi, au galaxie des autres, et à celle de la nature pour ne pas avoir un trou noir existentiel dans notre vie. C'est à partir de cette idée que j'ai construit mon credo
-*--*
+Dans ma vision l'amour idéal est l'amour inconditionnel compatible avec tous les types de relation, y compris la relation amoureuse. Et je nous souhaites à tous de construire nos connections galactiques, nos relations importantes à nos yeux avec cette amour. Et d'une façon ou d'une autre, nous devons nous connecter à soi, au galaxie des autres, et à celle de la nature pour ne pas avoir un trou noir existentiel dans notre vie. C'est à partir de cette idée que j'ai construit mon credo (cf note [[Qui suis-je#Credo|Qui suis-je]])
+
+***
 [[L'amour]]
