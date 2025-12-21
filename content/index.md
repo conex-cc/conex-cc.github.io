@@ -11,7 +11,7 @@ Maintenant, sentez vous libre de déambuler dans ce jardin en suivant votre curi
 Clément Chapuis
 
 # Par où commencer ?
-Comme vous pouvez le constater, ce jardin n'est pas encore très développé. Mais vous pouvez toute de même aller explorer [[Qui suis-je|qui suis-je]] ou ces écrits récent ou mis-à-jour récemment :
+Comme vous pouvez le constater, ce jardin n'est pas encore très développé. Mais vous pouvez toute de même aller explorer [[Qui suis-je|qui suis-je]] ou ces écrits récents ou mis-à-jour récemment :
 - Une [[Réflexion sur l'argent et la place qu'il occupe dans nos vies|réflexion sur l'argent et la place qu'il occupe dans nos vies]]
 - [[Les relations sociales]]
 
