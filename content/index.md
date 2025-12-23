@@ -22,4 +22,6 @@ Et en attendant que ce jardin se développe, vous pouvez aller voir mes précéd
 Instagram : [Deepconex](https://www.instagram.com/deepconex/)  
 E-mail : clement.chapuis92@gmail.com
 
+***
+Vidéo tuto que j'ai suivi pour créer ce site : [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw). Et je confirme je ne paye absolument rien pour ce site.
 
