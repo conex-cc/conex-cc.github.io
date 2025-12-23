@@ -23,5 +23,5 @@ date: 2025-12-04
 - La confiance est une preuve d'amour
 
 # Réflexions
-\> Cf [[Qui suis-je#Credo|Credo]] sur l'amour
+\> Cf [[Qui suis-je#Credo|Credo]] sur l'amour  
 \> (18.12.2025) [[Relations sociales#Réflexions|L'amour dans nos relations sociales]]
