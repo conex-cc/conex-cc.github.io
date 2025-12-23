@@ -11,17 +11,17 @@ Maintenant, sentez vous libre de déambuler dans ce jardin en suivant votre curi
 Clément Chapuis
 
 # Par où commencer ?
-Comme vous pouvez le constater, ce jardin n'est pas encore très développé. Mais vous pouvez toute de même aller explorer [[Qui suis-je|qui suis-je]] ou ces écrits récents ou mis-à-jour récemment :
+Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces écrits récents ou récemment mis à jours : 
 - (02-12-2025) Une [[Réflexion sur l'argent et la place qu'il occupe dans nos vies|réflexion sur l'argent et la place qu'il occupe dans nos vies]]
 - (18-12-2025) [[Relations sociales]]
 
-Et en attendant que ce jardin se développe, vous pouvez aller voir mes précédents écrits sur mon [blog notion](https://spiky-wildebeest-0fa.notion.site/Cr-ations-245c7951781381eda857c5e4b14028e5). Et n'hésitez pas non plus à aller jeter un oeil à la [playlist Youtube](https://youtube.com/playlist?list=PLpxZyZzI7a45cgXRkjTfq4UcWAWgrssYT&si=xH0QffPq1v_LdASL) rassemblant des vidéos qui ont nourri mes réflexions.
-
+Vous pouvez également aller voir mes écrits antérieurs sur mon ancien <a href="https://spiky-wildebeest-0fa.notion.site/Cr-ations-245c7951781381eda857c5e4b14028e5" target="-blank">blog Notion</a>. Et n'hésitez pas non plus à aller jeter un oeil à la <a href="https://youtube.com/playlist?list=PLpxZyZzI7a45cgXRkjTfq4UcWAWgrssYT&si=xH0QffPq1v_LdASL" target="_blank">playlist YouTube</a> rassemblant des vidéos inspirantes, nourrissant mes réflexions.
 
 # Me contacter
-Instagram : [Deepconex](https://www.instagram.com/deepconex/)  
+
+Instagram : <a href="https://www.instagram.com/deepconex/" target="_blank">Deepconex</a>  
 E-mail : clement.chapuis92@gmail.com
 
 ***
-Vidéo tuto que j'ai suivi pour créer ce site : [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw). Et je confirme je ne paye absolument rien pour ce site.
+Vidéo tuto que j'ai suivi pour créer ce site : <a href="https://www.youtube.com/watch?v=6s6DT1yN4dw" target="_blank">How to publish your notes for free with Quartz</a>. Et je confirme je ne paye absolument rien pour ce site.
 

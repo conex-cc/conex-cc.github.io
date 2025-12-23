@@ -7,7 +7,7 @@ L'ensemble des êtres vivants et des phénomènes (physique, chimique, etc.)
 # Principes
 - [[Vivre est complètement inutile et absurde]]
 - [[Le sens de la vie se trouve dans l'absurde]]
-- Vivre sans passion, la rend **absurdement absurde**
+- Vivre sans passion, rend la vie fade
 - [[Vivre est voué à l'échec]]
 - [[Une vie facile rend la vie compliqué et une vie compliqué rend la vie facile]]
 
