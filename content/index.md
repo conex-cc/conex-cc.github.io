@@ -25,5 +25,5 @@ Instagram : <a href="https://www.instagram.com/deepconex/" target="_blank">Deepc
 E-mail : clement.chapuis92@gmail.com
 
 ***
-Vidéo tuto que j'ai suivi pour créer ce site : <a href="https://www.youtube.com/watch?v=6s6DT1yN4dw" target="_blank">How to publish your notes for free with Quartz</a>. Et je confirme je ne paye absolument rien pour ce site.
+Vidéo tuto que j'ai suivi pour créer ce site : <a href="https://www.youtube.com/watch?v=6s6DT1yN4dw" target="_blank">How to publish your notes for free with Quartz</a>. Et je confirme je ne paye absolument rien pour ce site.  
 Ce site à été créé le 2 décembre 2025.
