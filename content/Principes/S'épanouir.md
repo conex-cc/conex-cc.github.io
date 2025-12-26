@@ -16,8 +16,7 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 - Equation du bonheur :  
 	= **Délirer/S'amuser dans l'inconfort** (seul & entre amis) + **S'entraider** pour anticiper/**combler nos besoins** + **Résoudre nos problèmes** en découlant  
 	- Si une action reflète aucune variable de cette équation alors l'action est probablement inutile et absurdement absurde
-	- Note : "S'amuser dans l'inconfort" synonyme de "progresser" est également un besoin mais qui est mis en avant dans l'équation, car nous avons tendance à l'oublier. [[L'effaction]]
-	- Differente intensité (les 3 A) : [[Accepter, apprécier, s'amuser]]
+	- Note : "S'amuser dans l'inconfort" synonyme de "progresser" est également un besoin mais qui est mis en avant dans l'équation, car nous avons tendance à l'oublier.
 
 - Le sens de notre existence / **notre vocation**
 	=> pour [[Suivre le sens de sa vie]]
