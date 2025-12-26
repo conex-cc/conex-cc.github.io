@@ -7,7 +7,7 @@ Contempler, apprécier, ressentir
 # Réflexions
 \> (21.12.2023)  
 Vivre pour vivre & être. C'est tout.  
-Etre là, dans l'instant présent à : contemplé, apprécié, ressentir, … **la Vie**  
+Etre là, dans l'instant présent à : contempler, apprécier, ressentir, … **la Vie**  
 Se reconnecter à notre **conscience** du **corps** (à nos sens)  
 Et là, on se rend compte que putain, c'est stylé de vivre  
 Finalement c'est pas très compliqué. Il suffit de combler ces besoins et d'être là…, juste là.  
