@@ -5,7 +5,7 @@ date: 2025-12-04
 ---
 L'ensemble des êtres vivants et des phénomènes (physique, chimique, etc.)
 # Principes
-- [[Vivre une existence intensément agréable]] = [[S'épanouir]]
+- Vivre une existence intensément agréable = [[S'épanouir]]
 *--*
 - [[Vivre est complètement inutile et absurde]]
 - [[Le sens de la vie se trouve dans l'absurde]]
