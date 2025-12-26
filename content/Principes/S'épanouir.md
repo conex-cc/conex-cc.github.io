@@ -14,7 +14,7 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
 # Principes
 - Equation du bonheur :  
-	= **Délier/S'amuser dans l'inconfort** (seul & entre amis) + **S'entraider** pour anticiper/**combler nos besoins** + **Résoudre nos problèmes** en découlant  
+	= **Délirer/S'amuser dans l'inconfort** (seul & entre amis) + **S'entraider** pour anticiper/**combler nos besoins** + **Résoudre nos problèmes** en découlant  
 	- Si une action reflète aucune variable de cette équation alors l'action est probablement inutile et absurdement absurde
 	- Note : "S'amuser dans l'inconfort" synonyme de "progresser" est également un besoin mais qui est mis en avant dans l'équation, car nous avons tendance à l'oublier. [[L'effaction]]
 	- Differente intensité (les 3 A) : [[Accepter, apprécier, s'amuser]]
@@ -50,18 +50,18 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 - Notre quête d'épanouissement est une quête quotidienne. Tous les jours elle est en partie remise en jeux. Et si l'on néglige ce fait trop longtemps on creuse notre malheur.
 - Nécessite d'avoir des connaissances et compétences sur le milieu où l'on évolue pour parvenir à satisfaire nos besoins
 
-![[Processus pour s'épanouir.jpg|350]]
+![[Processus pour s'épanouir.jpg|350]]  
 Fig. - Processus pour s'épanouir
 
-![[Processus pour s'épanouir, version gamifiée.jpg|350]]
+
+![[Processus pour s'épanouir, version gamifiée.jpg|350]]  
 Fig. - Processus pour s'épanouir, version gamifiée
 
-![[Épanouissomètre.jpg|150]]
+![[Épanouissomètre.jpg|150]]  
 Fig. - Épanouissomètre
 
-![[Nos besoins gravitent autour de notre vie.jpg|350]]
-
-
+![[Nos besoins gravitent autour de notre vie.jpg|350]]  
+Fig. - Nos besoins gravitent autour de notre vie
 # Réflexions
 \> [[Être un enfant responsable]]
 \> **On est vivant alors quitte à l'être autant prendre du plaisir à vivre**, dans le confort comme dans l'inconfort
