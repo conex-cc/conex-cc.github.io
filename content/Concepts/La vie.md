@@ -5,11 +5,20 @@ date: 2025-12-04
 ---
 L'ensemble des êtres vivants et des phénomènes (physique, chimique, etc.)
 # Principes
+- [[Vivre une existence intensément agréable]] = [[S'épanouir]]
+*--*
 - [[Vivre est complètement inutile et absurde]]
 - [[Le sens de la vie se trouve dans l'absurde]]
 - Vivre sans passion, rend la vie fade
+- [[Vivre = Être prisonnier de la vie]]
 - [[Vivre est voué à l'échec]]
+- [[Vivre c'est mourir à petit feu]] donc [[Vivre c'est très mauvais pour la santé]]
 - [[Une vie facile rend la vie compliqué et une vie compliqué rend la vie facile]]
+- [[L'espoir fait vivre]]
+- [[S'adapter pour vivre]]
+- [[Prendre plaisir à vivre]]
+- [[Le mouvement est indispensable pour vivre]]
+- [[Contempler la vie]]
 
 - ~ est injuste, mais notre situation n'est pas une fatalité
 -  ~ évolue en permanence
