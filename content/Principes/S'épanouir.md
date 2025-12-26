@@ -63,6 +63,5 @@ Fig. - Épanouissomètre
 Fig. - Nos besoins gravitent autour de notre vie
 # Réflexions
 \> **On est vivant alors quitte à l'être autant prendre du plaisir à vivre**, dans le confort comme dans l'inconfort  
-\> Dire oui a tout n'a rendu personne heureux. Etre rebelle est parfois nécessaire pour s'épanouir et suivre notre phare, notre objectif qui nous dépasser (source [[Fabien Faro, Pourquoi je déteste ma génération]])  
-\> De nos jours **nous devons traiter tellement d'information** entre les dossiers administratifs, ces cours, les choses à faire, que **je crois qu'il est quasiment impossible d'être serein mentalement sans système efficace** de **prise de note** et de **base de donnée** pour organiser les informations entre elle.  
-C'est pourquoi je suis très reconnaissant d'avoir mis en place **mon cerveau externe**. Et place Obsidian dans le top 1 des meilleurs logiciels pour être serein mentalement
+	\> Dire oui a tout n'a rendu personne heureux. Etre rebelle est parfois nécessaire pour s'épanouir et suivre notre phare, notre objectif qui nous dépasser (source vidéo ytube : "Fabien Faro, Pourquoi je déteste ma génération")  
+
