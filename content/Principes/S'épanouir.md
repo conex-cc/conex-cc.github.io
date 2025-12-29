@@ -17,6 +17,8 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 	= **Délirer/S'amuser dans l'inconfort** (seul & entre amis) + **S'entraider** pour anticiper/**combler nos besoins** + **Résoudre nos problèmes** en découlant  
 	- Si une action reflète aucune variable de cette équation alors l'action est probablement inutile et absurdement absurde
 	- Note : "S'amuser dans l'inconfort" synonyme de "progresser" est également un besoin mais qui est mis en avant dans l'équation, car nous avons tendance à l'oublier.  
+- **[[Rire de l'absurde]]** - Faire des trucs complètement inutiles juste pour rires. Mais toujours dans le respect de la nature. On ne va pas s'amuser à bruler des forêts, à jeter nos déchets partout, ou à être un connard.
+
 *--*
 - Le sens de notre existence / **notre vocation**
 	=> pour [[Suivre le sens de sa vie]]
