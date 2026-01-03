@@ -11,14 +11,14 @@ date création: 2025-12-29
 
 Au lieu de **fuir l'absurde**, étant dans tous les cas impossibles (cf définition). En effet [[Vivre est complètement inutile et absurde]]
 
->**Action absurde** : Action censé mais pouvant à première vue sembler absurde. Désigne tous les actions ayant une finalité positive, nous permettant de se sentir bien et de [[S'épanouir]].
+>**Action absurde** : Action censé mais pouvant à première vue sembler absurde. Désigne toutes les actions ayant une finalité positive, nous permettant de se sentir bien et de [[S'épanouir]].
 - Courir pied nu (et torse nu) dans la forêt (en hiver)
 - Faire 100 pompes sans aucune raison apparente
 - Grimper, tomber, grimper, tomber, etc. en escalade
 - Ecouter/[[Apprécier le silence]] au lieu d'être productif
 	- Bien qu'écouter le silence ou méditer, peut sembler simple, le faire sans avoir de pensée parasite, n'est pas forcément aisée. Et peut être difficile et inconfortable. Cela demande de refocaliser inlassablement son attention sur le silence, sa respiration ou la chose observé
 - Rire d'une blague, puis rire d'avoir ris à la blague
-- Regarder un spectacle, un film
+- Regarder un spectacle, un film  
 => A retenir : Ce qui nous fait véritablement du bien, peut sembler à première vue absurde mais est finalement censé.  
 Ne nous fions pas aux apparences, et à notre première impression d'une action
 
