@@ -1,5 +1,5 @@
 ---
-title: Réflexion sur l'argent et la place qu'il occupe dans nos vies
+title: L'argent et la place qu'il occupe dans nos vies
 date: 2025-12-02
 ---
 [[L'argent]]

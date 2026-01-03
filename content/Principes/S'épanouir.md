@@ -1,7 +1,8 @@
 ---
 type:
   - principe
-date: 2024-06-12
+date: 2026-01-03
+date création: 2024-06-12
 ---
 [[La vie]] - [[L'épanouissement]]
 ***
@@ -9,27 +10,33 @@ date: 2024-06-12
 => [[Prendre plaisir à vivre]] une existence intensément agréable.
 - Besoin/**Objectif ultime** du [[Jeu de la vie]]
 - **Progresser**, **contempler** et **aimer** (= aider). Syn: Avancer, grandir
-
 Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
 # Principes
 - Equation du bonheur :  
-	= **Délirer/S'amuser dans l'inconfort** (seul & entre amis) + **S'entraider** pour anticiper/**combler nos besoins** + **Résoudre nos problèmes** en découlant  
-	- Si une action reflète aucune variable de cette équation alors l'action est probablement inutile et absurdement absurde
-	- Note : "S'amuser dans l'inconfort" synonyme de "progresser" est également un besoin mais qui est mis en avant dans l'équation, car nous avons tendance à l'oublier.  
-- **[[Rire de l'absurde]]** - Faire des trucs complètement inutiles juste pour rires. Mais toujours dans le respect de la nature. On ne va pas s'amuser à bruler des forêts, à jeter nos déchets partout, ou à être un connard.
+	= [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]
+	x [[Apprécier le silence]]
+	x **S'entraider** pour anticiper/**combler nos besoins** 
+	x **Résoudre nos problèmes** en découlant.
 
+Précision sur l'équation : 
+- (Progresser) - **Evoluer dans l'inconfort** en **l'acceptant**, **l'appréciant**, ou idéalement en **délirant/s'amusant**
+	- /!\ Toujours dans le respect de soi, des autres et de la nature (ex: on ne va pas s'amuser à jeter nos déchets par terre)
+	- Reviens à [[Côtoyer l'absurde]]
+- (Contempler) - **Apprécier le silence** peut se traduire de divers façon : **contempler**, **méditer**, **prier**, **écouter**.
+- (Aimer) - **S'entraider**  
+**Note**: Si une action reflète aucune variable de cette équation alors l'action est probablement absurdement absurde. 
 *--*
 - Le sens de notre existence / **notre vocation**
-	=> pour [[Suivre le sens de sa vie]]
 - pour **trouver un équilibre de vie**.
 	car [[S'épanouir est une question d'équilibre]]
 - pour s'épanouir/réussir dans la vie, tu ne peux compter que sur toi mais tu n'y arrivera jamais sans les autres
 
 - donc **[[Combler nos besoins]]**
-	& donc [[Échouer intelligemment]]
+	- car [[Nos besoins gravitent autour de notre vie]]
+	- & donc [[Échouer intelligemment]]
 		donc réaliser des projets épanouissants & résoudre nos problèmes
-	& donc [[Nouer des relations]]
+	- & donc [[Nouer des relations]]
 - donc prendre des initiatives
 
 - donc nécessite : apprendre, s'accomplir, grandir, évoluer, réussir, vivre des moments de complicité, etc.

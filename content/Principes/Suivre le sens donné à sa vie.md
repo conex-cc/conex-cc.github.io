@@ -6,6 +6,9 @@ date: 2025-12-04
 [[La vie]] - [[Le sens de la vie]] - [[L'épanouissement]]
 ***
 Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa raison d'être), fait partie des spécificités des besoins de l'être humain.
+
+= **Combler** l'ensemble de **nos besoins** = Objectif de sa vie  
+= **Combler le besoin** spécifique de **Créer et de suivre le sens conceptuel donné à sa vie** = Un des obj de sa vie
 # Principes
 - ~ est notre vocation, notre destinée
 - ~ pour avancer. (cf img: montagne/bateau) 
@@ -19,6 +22,6 @@ Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa rai
 - Le sens met en mouvement. Mouvement indispensable pour vivre. En effet [[L'inaction entraîne la mort]]
 - Car [[Notre cerveau déteste l'absurde]]. Car notre cerveau a besoin de donner du sens au choses.
 # Réflexions
-\> (img: montagne) Nous devons choisir une montagne à gravir et la gravir. Pourquoi ? Parce que nous devons le faire pour vivre.
-Le choix de la montagne importe peu, tant que son ascension nous fait grandir et à une finalité positive.
+\> (img: montagne) Nous devons choisir une montagne à gravir et la gravir. Pourquoi ? Parce que nous devons le faire pour vivre.  
+Le choix de la montagne importe peu, tant que son ascension nous fait grandir et à une finalité positive.  
 \> (img: bateau) Un bateau pour avancer doit choisir une direction. La direction en soi importe peu mais il lui en faut une. Et bien sûr la direction peut changer, le bateau peut virer de bord
