@@ -14,9 +14,9 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
 # Principes
 - Equation du bonheur :  
-	= [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]
-	x [[Apprécier le silence]]
-	x **S'entraider** pour anticiper/**combler nos besoins** 
+	= [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
+	x [[Apprécier le silence]]  
+	x **S'entraider** pour anticiper/**combler nos besoins**  
 	x **Résoudre nos problèmes** en découlant.
 
 Précision sur l'équation : 
@@ -25,8 +25,9 @@ Précision sur l'équation :
 	- Reviens à [[Côtoyer l'absurde]]
 - (Contempler) - **Apprécier le silence** peut se traduire de divers façon : **contempler**, **méditer**, **prier**, **écouter**.
 - (Aimer) - **S'entraider**  
-**Note**: Si une action reflète aucune variable de cette équation alors l'action est probablement absurdement absurde. 
-*--*
+
+**Note**: Si une action reflète aucune variable de cette équation alors l'action est probablement absurdement absurde.  
+*--*  
 - Le sens de notre existence / **notre vocation**
 - pour **trouver un équilibre de vie**.
 	car [[S'épanouir est une question d'équilibre]]

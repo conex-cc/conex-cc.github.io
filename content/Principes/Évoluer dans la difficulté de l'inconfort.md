@@ -5,8 +5,8 @@ date: 2025-11-06
 ---
 [[La difficulté]] - [[L'inconfort]]
 ***
-**Accepter**, **apprécier**, ou idéalement **délirer/s'amuser** à **évoluer dans (la difficulté de) l'inconfort**
-*--*
+**Accepter**, **apprécier**, ou idéalement **délirer/s'amuser** à **évoluer dans (la difficulté de) l'inconfort**  
+*--*  
 "Accepter" ne signifie pas "se résigner". C'est juste accepter qu'aujourd'hui qqch est comme ça. Pour profite de l'instant malgré ces imperfections. Mais rien ne nous empêche de travailler sur ces imperfections. C'est d'ailleurs envié.
 
 # Principes
