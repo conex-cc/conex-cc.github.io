@@ -42,16 +42,16 @@ L'ensemble des êtres vivants et des phénomènes (physique, chimique, etc.)
 \> [17/07/2024] **Sens de la vie** : (A l'instar de l'ensemble des être vivants) Satisfaire nos besoins en dansant dans le flux circulaire (de mouvement) de la vie
 \> [[Vivre est un sacré bourbier]]
 
-\> [23/09/2024] **Improviser**
-Improviser c'est toujours mieux que de se contraindre à réaliser ce qu'on prévoit. Mais prévoir/anticiper cadre l'impro. Et tout le monde sait qu'un cadre est nécessaire pour libérer la créativité, tout le potentiel d'une impro.
+\> [23/09/2024] **Improviser**  
+Improviser c'est toujours mieux que de se contraindre à réaliser ce qu'on prévoit. Mais prévoir/anticiper cadre l'impro. Et tout le monde sait qu'un cadre est nécessaire pour libérer la créativité, tout le potentiel d'une impro.  
 L'idée va être donc de préparer le cadre (prévoir/anticiper) pour éviter des galères ou de se retrouver en carafe. Puis le moment venu de se laisser surprendre par l'instant, improviser.
-J'aime bien faire des parallèles entre le théâtre et la vrai vie.
+J'aime bien faire des parallèles entre le théâtre et la vrai vie.  
 En théâtre quand tu dois jouer une pièce tu anticipes (l'apprentissage du texte, la création et l'essayage des costumes, etc) mais le jour J tu lâches prises sur toutes les heures des repet' qu'on a eu pour improviser. On surf sur l'instant t pour le vivre pleinement. Pour vivre au quotidien c'est un peu la même chose.
 
-\> [03/08/2024] **Il n'y a rien de plus étrange et mystérieux qu'être en vie**
+\> [03/08/2024] **Il n'y a rien de plus étrange et mystérieux qu'être en vie**  
 Il n'y a rien de plus étrange et mystérieux qu'être en vie
-On est vivant, on va vivre un peu puis on va mourir, plus ou moins 28 210 jours (pour un être humain occidental) et tant qu'à faire on va essayer de rendre ce moment agréable.
-On devrais être tous être là à regarder par le hublot de notre vie, à faire des théories de notre existences, de s'émerveillé de cette vie, et de rendre agréable* notre passage sur terre.
+On est vivant, on va vivre un peu puis on va mourir, plus ou moins 28 210 jours (pour un être humain occidental) et tant qu'à faire on va essayer de rendre ce moment agréable.  
+On devrais être tous être là à regarder par le hublot de notre vie, à faire des théories de notre existences, de s'émerveillé de cette vie, et de rendre agréable* notre passage sur terre.  
 	\*Implique forcément de faire des choses difficile pour les rendre facile et donc agréable. [[Évoluer dans la difficulté de l'inconfort]]
 
 # Citations
