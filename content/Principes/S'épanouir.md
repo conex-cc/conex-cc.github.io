@@ -10,6 +10,7 @@ date création: 2024-06-12
 => [[Prendre plaisir à vivre]] une existence intensément agréable.
 - Besoin/**Objectif ultime** du [[Jeu de la vie]]
 - **Progresser**, **contempler** et **aimer** (= aider). Syn: Avancer, grandir
+
 Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
 # Principes

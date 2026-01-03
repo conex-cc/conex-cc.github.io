@@ -19,10 +19,6 @@ Etre ce lac ou cette montagne, qui est là, juste là
 Qui à sa surface reçoit les aléas de la vie  
 Mais qui en son cœur réside une paix intérieur  
 
-"Etre là, dans l'instant présent à : contempler, apprécier, ressentir, ... **la Vie**"  
-A quoi bon "apprécier la Vie"  
-Non on va la détruire et la rendre compliqué. 1 2 3 fois, adjugé vendu ! ([[Pourquoi faire simple quand on peut faire compliqué]])
-
 La majorité d'entre nous sommes devenu insensible à la vie et au respect de la nature. Ou du moins n'a aucun scrupule pour la détruire et la polluer.
 
 \> [19/09/2025] **Quel est ma musique préféré ?**  
