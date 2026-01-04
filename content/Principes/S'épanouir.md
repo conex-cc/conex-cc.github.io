@@ -18,7 +18,8 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 	= [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
 	x [[Apprécier le silence]]  
 	x **S'entraider** pour anticiper/**combler nos besoins**  
-	x **Résoudre nos problèmes** en découlant.
+	x **Résoudre nos problèmes** en découlant  
+	x **Offrir ses solutions** (ou les vendre si on a besoin de ramasser de l'argent)
 
 Précision sur l'équation : 
 - (Progresser) - **Evoluer dans l'inconfort** en **l'acceptant**, **l'appréciant**, ou idéalement en **délirant/s'amusant**
