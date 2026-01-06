@@ -21,8 +21,8 @@ Au lieu de **fuir l'absurde**, étant dans tous les cas impossibles (cf définit
 - Regarder un spectacle, un film
 - Se confronter à ses contradictions, débattre (avec soi-même ou les autres)
 - S'enjailler sur une chanson aux paroles absurdes  
-  \#truite_sardine, dédicaces aux copains de ce délire initié par l'ami Éli (cf <a href="https://www.instagram.com/reel/DPWi8IJiP2x/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">post insta</a> - <a href="https://on.soundcloud.com/VPHzM8wTyFfHrN0QYQ" target="_blank">soundclound</a>) puis : 
-	Création personnelle ![[2025-10-30 - Délire truite sardine.m4a]] Puis la création des copains 😂
+  #\truite_sardine, dédicaces aux copains de ce délire initié par l'ami Éli (cf <a href="https://www.instagram.com/reel/DPWi8IJiP2x/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">post insta</a> - <a href="https://on.soundcloud.com/VPHzM8wTyFfHrN0QYQ" target="_blank">soundclound</a>)   
+	Puis une création personnelle ![[2025-10-30 - Délire truite sardine.m4a]] Puis la création des copains 😂
 	![[2025-10-30 - Délire truite sardine (polyphonie).m4a]]
 
 
