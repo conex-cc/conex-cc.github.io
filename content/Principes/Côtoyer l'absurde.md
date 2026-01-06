@@ -1,7 +1,7 @@
 ---
 Sous-type:
   - principe
-date: 2026-01-03
+date: 2026-01-06
 date création: 2025-12-29
 ---
 [[L'absurde]]
