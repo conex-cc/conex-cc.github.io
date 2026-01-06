@@ -18,7 +18,15 @@ Au lieu de **fuir l'absurde**, étant dans tous les cas impossibles (cf définit
 - Ecouter/[[Apprécier le silence]] au lieu d'être productif
 	- Bien qu'écouter le silence ou méditer, peut sembler simple, le faire sans avoir de pensée parasite, n'est pas forcément aisée. Et peut être difficile et inconfortable. Cela demande de refocaliser inlassablement son attention sur le silence, sa respiration ou la chose observé
 - Rire d'une blague, puis rire d'avoir ris à la blague
-- Regarder un spectacle, un film  
+- Regarder un spectacle, un film
+- Se confronter à ses contradictions, débattre (avec soi-même ou les autres)
+- S'enjailler sur une chanson aux paroles absurdes  
+  \#truite_sardine, dédicaces aux copains de ce délire initié par l'ami Éli (cf <a href="https://www.instagram.com/reel/DPWi8IJiP2x/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">post insta</a> - <a href="https://on.soundcloud.com/VPHzM8wTyFfHrN0QYQ" target="_blank">soundclound</a>) puis : 
+	Création personnelle ![[2025-10-30 - Délire truite sardine.m4a]] Puis la création des copains 😂
+	![[2025-10-30 - Délire truite sardine (polyphonie).m4a]]
+
+
+
 => A retenir : Ce qui nous fait véritablement du bien, peut sembler à première vue absurde mais est finalement censé.  
 Ne nous fions pas aux apparences, et à notre première impression d'une action
 
