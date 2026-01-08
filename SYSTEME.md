@@ -8,6 +8,7 @@ npx quartz sync
 ```
 Build le site en local et le lance (cf site : http://localhost:8080/)
 ```
+cd C:\Users\cleme\Documents\=DOSSIER=\C.EXT public
 npx quartz build --serve
 ```
 

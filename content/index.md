@@ -14,6 +14,7 @@ Clément Chapuis
 Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces notes : 
 - [[La vie]] & [[S'épanouir]]
 - [[Côtoyer l'absurde]]
+- [[Protection de la nature (présentation de sensibilisation)]]
 - [[L'argent et la place qu'il occupe dans nos vies]]
 
 PS : Les notes sont datées par leurs date de mise à jour, cliquez sur un onglet du menu (Concepts, Principes, Réflexions) pour voir les notes récentes. 

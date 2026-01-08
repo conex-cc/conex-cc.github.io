@@ -15,4 +15,6 @@ date: 2025-11-06
 		- Ainsi si la difficulté/la complexité est source d'épanouissement, [[Pourquoi faire simple quand on peut faire compliqué]] ?
 - Nécessite de développer un état d'[[L'équanimité|équanimité]]. Apprendre à [[Apprécier le silence]], aide à développer cette état
 
+- Danger danger danger ! **Aimer prendre des risques**, aimer évoluer dans le danger. Mais attention à ne pas dépasser le fil rouge (de la mort). Mais pour beaucoup d'entre nous on en ai souvent bien loin, bien confiné (chez nous) dans notre [[Zone de confort]]
+
 => ainsi [[Amuses-toi dans la difficulté de l'inconfort et tu te sentiras heureux]]

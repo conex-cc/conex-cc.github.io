@@ -25,3 +25,6 @@ Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa rai
 \> (img: montagne) Nous devons choisir une montagne à gravir et la gravir. Pourquoi ? Parce que nous devons le faire pour vivre.  
 Le choix de la montagne importe peu, tant que son ascension nous fait grandir et à une finalité positive.  
 \> (img: bateau) Un bateau pour avancer doit choisir une direction. La direction en soi importe peu mais il lui en faut une. Et bien sûr la direction peut changer, le bateau peut virer de bord
+
+*--*  
+\> [07/01/2026] s: Lucas Hof - <a href="http://youtube.com/post/Ugkx3G0pwLPWQtFN8I-vbqXMdyRr-W0JlapZ?si=oUfaJS-dMkNVTjBu" target="_blank">Trouve la direction</a> 
