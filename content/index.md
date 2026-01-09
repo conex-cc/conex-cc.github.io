@@ -13,7 +13,7 @@ Clément Chapuis
 # Par où commencer ?
 Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces notes : 
 - [[La vie]] & [[S'épanouir]]
-- [[Côtoyer l'absurde]]
+- [[Côtoyer l'absurde]] & [[Délirer 🤣]]
 - [[Protection de la nature (présentation de sensibilisation)]]
 - [[Douter de ces convictions]]
 
