@@ -1,7 +1,8 @@
 ---
 Sous-type:
-  - concept
-date: 2026-01-07
+  - principe
+date: 2026-01-09
+date création: 2026-01-07
 ---
 **Soyons fou !** Et rions de notre folie, je vous jure ça fait du bien
 
