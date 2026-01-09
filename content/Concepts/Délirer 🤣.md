@@ -7,13 +7,14 @@ date: 2026-01-07
 
 # Principes
 - ~ **pour rire** juste pour rire. Et ainsi [[S'épanouir]] et [[Côtoyer l'absurde]]
+- [[Évoluer dans la difficulté de l'inconfort]]
 - Faire des choses improbables dans des lieux improbables
 - [[Transgresser les règles]]
 - Avoir de l'autodérision
 - Réaliser ces passions
 
 # Réflexions
-\> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres (ex: non au harcèlement) et de la nature
+\> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres et de la nature
 
 Le fun se trouve dans des actions simples : courir, sauter, grimper, lancer, attraper, se déplacer de façon atypique (ex: accroupi), chanter, etc.  
 => Tu rigoles, tu prend la vie dans sa forme la plus simple, tu combles tes besoins et tu te sentiras heureux. ([[Combler nos besoins]] - [[S'épanouir]])
@@ -28,5 +29,5 @@ J'ai un peu la flemme de devenir quelqu'un enfermé dans sa routine dévoué pou
 	![[2025-10-30 - Délire truite sardine (polyphonie).m4a]]
 - **Courir pied nu** (et torse nu) **dans la forêt** (en hiver (dans la neige))
 	- [[2026-01-08 - Course pied nu dans la neige]] ou [[2025-12-19 - Course pied nu hors des sentiers]]
-- Grimper aux arbres
+- **Grimper aux arbres**
 - Etc.

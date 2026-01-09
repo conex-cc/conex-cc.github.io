@@ -12,6 +12,5 @@ date création: 2026-01-07
 - [[Être ouvert d'esprit]]
 - ~ pour se créer des **croyances aidantes**
 
-
 # Réflexions
 [08/01/2026] Si tous les politiciens pouvaient en prendre de la graine ça serait génial
