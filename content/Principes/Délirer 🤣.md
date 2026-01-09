@@ -8,6 +8,7 @@ date création: 2026-01-07
 
 # Principes
 - ~ **pour rire** juste pour rire. Et ainsi [[S'épanouir]] et [[Côtoyer l'absurde]]
+- ~ **pour créer de la complicité** avec soi-même ou les autres. Développant l'amour propre ou l'amour pour les autres ([[Nouer des relations]])
 - [[Évoluer dans la difficulté de l'inconfort]]
 - Faire des choses improbables dans des lieux improbables
 - [[Transgresser les règles]]
