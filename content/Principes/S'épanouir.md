@@ -15,7 +15,8 @@ Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
 # Principes
 - Equation du bonheur :  
-	= [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
+	= **Bien manger**
+	x [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
 	x [[Apprécier le silence]]  
 	x **S'entraider** pour anticiper/**combler nos besoins**  
 	x **Résoudre nos problèmes** en découlant  

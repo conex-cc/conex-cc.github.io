@@ -15,6 +15,7 @@ date création: 2026-01-07
 - [[Transgresser les règles]]
 - Avoir de l'autodérision
 - Réaliser ces passions
+- Utiliser l'énergie du délire pour oser puis ajuster le tir. C'est tjs plus intéressant que d'hésiter puis de renoncer. Aide à [[S'engager à fond]]
 
 # Réflexions
 \> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres et de la nature
