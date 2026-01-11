@@ -20,7 +20,7 @@ Note : "Accepter" ne signifie pas "se résigner", mais vivre une situation dans 
 	- Effectivement, développe nos **connaissances** et nos **compétences**, en développant nos capacités **mentales**, **physiques** & **intellectuelles**.  
 	  Ainsi, si la difficulté/la complexité ou l'inconfort est source d'épanouissement, [[Pourquoi faire simple quand on peut faire compliqué]] ?
 	- Mais nécessite d'être raisonnablement ambitieux. C'est à dire, d'évoluer dans la [[Zone proximale de développement (ZPD)]]
-- Nécessite de développer un état d'[[L'équanimité|équanimité]]. Apprendre à [[Apprécier le silence]], aide à développer cette état
+- Nécessite de développer un état d'[[L'équanimité|équanimité]]. Apprendre à [[Apprécier le silence]], aide à développer cet état
 
 - Danger danger danger ! Aimer prendre des risques, aimer évoluer dans le danger. Mais attention à ne pas dépasser le fil rouge (de la mort). Mais pour beaucoup d'entre nous on en ai souvent bien loin, bien confiné (chez nous) dans notre [[Zone de confort]]
 

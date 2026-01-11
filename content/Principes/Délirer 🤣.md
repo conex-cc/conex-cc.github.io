@@ -25,8 +25,8 @@ Le fun se trouve dans des actions simples : courir, sauter, grimper, lancer, att
 \> [29/12/2025] **J'ai la flemme de perdre la joie de vivre**  
 J'ai un peu la flemme de devenir quelqu'un enfermé dans sa routine dévoué pour son travail, ayant perdu toute sa joie de vivre. Se préoccupant uniquement de choses extérieurs à soi-même, oubliant de prendre du temps pour soi. En regardant autour de moi, cela semble être la réalité de beaucoup, mais leur vie ne vend pas du rêve.
 
-\> [11/01/2026] **Attitude professionnelle** (ou du bon élève)
-Définition : Sourire, faire semblant d'être heureux, alors que dans notre tête on a juste envie de crever. En gros être hypocrite.
+\> [11/01/2026] **Attitude professionnelle** (ou du bon élève)  
+Définition : Sourire, faire semblant d'être heureux, alors que dans notre tête on a juste envie de crever. En gros être hypocrite.  
 Dans beaucoup de milieu du monde professionnel, il y a pas de place à la folie. Il ne faut surtout pas déranger, juste réaliser son travail, ou au moins faire semblant. C'est notre carrière est donc notre salaire qui est en jeux.
 Mais c'est quoi ces conneries. On est dans un monde de fou. Mais une folie rongeant notre être. Alors que la folie que je promeus est une folie source de joie de vivre. Un même mot désignant deux folies totalement opposées
 # Inspirations
