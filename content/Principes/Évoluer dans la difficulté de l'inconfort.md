@@ -1,7 +1,8 @@
 ---
 Sous-type:
   - principe
-date: 2025-11-06
+date: 2026-01-11
+date création: 2025-11-06
 ---
 [[La difficulté]] - [[L'inconfort]]
 ***
@@ -11,6 +12,10 @@ date: 2025-11-06
 Note : "Accepter" ne signifie pas "se résigner", mais vivre une situation dans un état d'[[L'équanimité|équanimité]]. C'est à dire accepter une situation malgré son inconfort ou ces imperfections. Imperfection sur laquelle nous pouvons par ailleurs travailler pour améliorer la situation.
 
 # Principes
+- ~ **pour soi** et **ceux qu'on aime**. C'est à dire avec une motivation **intrinsèque**. Étant une motivation venant du sens donné à notre vie. ([[Suivre le sens donné à sa vie]])  
+  /!\ Et non **sous pression de l'autre**. C'est à dire avec une motivation **extrinsèque**. Personne ne devrait avoir la légitimité de nous obliger à faire quelques choses si cette chose est désaligné avec le sens de notre vie.  
+  Car ça les amis cela s'appelle de l'esclavage. Et pourtant beaucoup sont ceux, à l'école ou dans la vie pro, travaillant avec une motivation extrinsèque. Pour avoir de bonne note ou un salaire. C'est ce qu'on pourrait appeler : [[L'esclavage moderne]].
+
 - Pour [[Apprendre]] nous faisant **grandir/progresser**. Source d'épanouissement ([[S'épanouir]])
 	- Effectivement, développe nos **connaissances** et nos **compétences**, en développant nos capacités **mentales**, **physiques** & **intellectuelles**.  
 	  Ainsi, si la difficulté/la complexité ou l'inconfort est source d'épanouissement, [[Pourquoi faire simple quand on peut faire compliqué]] ?
