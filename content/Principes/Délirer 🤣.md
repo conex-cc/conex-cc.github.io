@@ -8,6 +8,8 @@ date création: 2026-01-07
 
 # Principes
 - ~ **pour rire** juste pour rire. Et ainsi [[S'épanouir]] et [[Côtoyer l'absurde]]
+- ~ **pour [[Évoluer dans la difficulté de l'inconfort]]** avec plus de facilité
+	- Utiliser l'énergie du délire pour se motiver/oser. Puis ajuster le tir. C'est tjs plus intéressant que d'hésiter puis de renoncer. Aide à [[S'engager à fond]]
 - ~ **pour créer de la complicité** avec soi-même ou les autres. Développant l'amour propre ou l'amour pour les autres ([[Nouer des relations]])
 - ~ **afin d'avoir une vie fun** (d'éviter d'avoir une vie chiante). C'est logique, si on a une vie fun c'est qu'elle n'est pas chiante
 - [[Évoluer dans la difficulté de l'inconfort]]
@@ -15,7 +17,6 @@ date création: 2026-01-07
 - [[Transgresser les règles]]
 - Avoir de l'autodérision
 - Réaliser ces passions
-- Utiliser l'énergie du délire pour oser puis ajuster le tir. C'est tjs plus intéressant que d'hésiter puis de renoncer. Aide à [[S'engager à fond]]
 
 # Réflexions
 \> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres et de la nature
