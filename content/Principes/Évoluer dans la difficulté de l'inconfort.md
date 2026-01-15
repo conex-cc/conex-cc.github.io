@@ -16,10 +16,13 @@ Note : "Accepter" ne signifie pas "se résigner", mais vivre une situation dans 
   /!\ Et non **sous pression de l'autre**. C'est à dire avec une motivation **extrinsèque**. Personne ne devrait avoir la légitimité de nous obliger à faire quelques choses si cette chose est désaligné avec le sens de notre vie.  
   Car ça les amis cela s'appelle de l'esclavage. Et pourtant beaucoup sont ceux, à l'école ou dans la vie pro, travaillant avec une motivation extrinsèque. Pour avoir de bonne note ou un salaire. C'est ce qu'on pourrait appeler : [[L'esclavage moderne]].
 
-- Pour [[Apprendre]] nous faisant **grandir/progresser**. Source d'épanouissement ([[S'épanouir]])
+- ~ pour [[Apprendre]] nous faisant **grandir/progresser**. Source d'épanouissement ([[S'épanouir]])
 	- Effectivement, développe nos **connaissances** et nos **compétences**, en développant nos capacités **mentales**, **physiques** & **intellectuelles**.  
 	  Ainsi, si la difficulté/la complexité ou l'inconfort est source d'épanouissement, [[Pourquoi faire simple quand on peut faire compliqué]] ?
 	- Mais nécessite d'être raisonnablement ambitieux. C'est à dire, d'évoluer dans la [[Zone proximale de développement (ZPD)]]
+- ~ **pour devenir capable** de [compléter par ce que vous voulez] & devenir quelqu'un
+- [[Sortir de notre zone de confort]]
+
 - Nécessite de développer un état d'[[L'équanimité|équanimité]]. Apprendre à [[Apprécier le silence]], aide à développer cet état
 
 - Danger danger danger ! Aimer prendre des risques, aimer évoluer dans le danger. Mais attention à ne pas dépasser le fil rouge (de la mort). Mais pour beaucoup d'entre nous on en ai souvent bien loin, bien confiné (chez nous) dans notre [[Zone de confort]]
