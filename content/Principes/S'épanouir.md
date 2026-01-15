@@ -35,6 +35,7 @@ Précision sur l'équation :
 - pour **trouver un équilibre de vie**.
 	car [[S'épanouir est une question d'équilibre]]
 - pour s'épanouir/réussir dans la vie, tu ne peux compter que sur toi mais tu n'y arrivera jamais sans les autres
+- [[Vivre est complètement inutile et absurde]]. Inutile ou absurde peut importe, nous devons œuvrer chaque jours pour notre épanouissement
 
 - donc **[[Combler nos besoins]]**
 	- car [[Nos besoins gravitent autour de notre vie]]
