@@ -9,6 +9,9 @@ Sauf qu'il faut d'abord savoir qui nous sommes et qui nous voulons **être** ([[
 Savoir qui nous sommes, apprendre à être soi-même, commence par être à l'écoute (de soi, des autres, de la Vie). Être à l'écoute du silence, des vibrations, des besoins, des sentiments, des émotions, des questions existentielles, de l'absurde, des aspirations, etc. **Ecoute et ferme ta gueule !**
 Une fois que tu as bien pris le temps d'écouter, essaye de comprendre. Puis c'est seulement après que tu peux faire en suivant l'enseignement du silence qui t'as été transmis.
 
+# Principes
+- [[Écoute et ferme ta gueule]]
+
 # Réflexions
 \> [[''T'es gênant'' la pire phrase]] - **Être soi-même** ou du moins **être considéré "anormal"** peut nous confronter à des remarques du style : "T'es gênant", "T'es bizarre", "T'es nul", "Oh regardez le looser". Les personnes qui prononcent ces phrases sont souvent des personnes ayant une faible estime d'eux-même, jaloux, et cherche à s'élever en rabaissant l'autre.
 La solution pour désamorcer ce genre de situation est l'autodérision. La maîtriser est tout un art.
