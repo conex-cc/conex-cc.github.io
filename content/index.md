@@ -4,7 +4,7 @@ title: Mon jardin numérique
 Bienvenue dans mon **jardin numérique Deepconex**. C'est en quelque sorte mon cerveau externe ou bien mon Wikipedia personnel.  
 C'est ici que j'y cultive mes connaissances, mes réflexions et mes idées. Ce jardin nourri mon intellect afin de comprendre un peu mieux le bourbier de la vie. Cette compréhension digérée me permet d'affiner ma perception de la vie et de construire mon identité là-dedans.
 
-Accepter l'imperfection de cet endroit, les mauvaises herbes qu'il peut accueillir. Que ce soit avec des idées obsolètes, incomplètes, incohérentes, absurdes, voir dérangeantes. Gardez avec vous votre ouverture d'esprit et votre esprit critique. Et prenez ce dont vous avez besoins pour entretenir votre jardin. Et si le cœur vous en dit vous pouvez me faire part de vos retours (cf bas de page)
+Accepter l'imperfection de cet endroit, les mauvaises herbes qu'il peut accueillir. Que ce soit avec des idées obsolètes, incomplètes, incohérentes, absurdes, voir dérangeantes. Gardez avec vous votre ouverture d'esprit et votre esprit critique ([[Douter de ces convictions]]). Et prenez ce dont vous avez besoins pour entretenir votre jardin. Et si le cœur vous en dit vous pouvez me faire part de vos retours (cf bas de page)
 
 Maintenant, sentez vous libre de déambuler dans ce jardin en suivant votre curiosité, où vous y trouverez toutes mes récoltes intellectuelles. Bonne exploration !
 
@@ -13,9 +13,9 @@ Clément Chapuis
 # Par où commencer ?
 Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces notes : 
 - [[La vie]] & [[S'épanouir]]
-- [[Côtoyer l'absurde]] & [[Délirer 🤣]]
-- [[Protection de la nature (présentation de sensibilisation)]]
-- [[Douter de ces convictions]]
+- [[Évoluer dans la difficulté de l'inconfort]]
+- [[S'aimer pour aimer les autres]]
+- [[Délirer 🤣]]
 
 PS : Les notes sont datées par leur date de mise à jour, cliquez sur un onglet du menu (Concepts, Principes, Réflexions) pour voir les notes récentes.
 

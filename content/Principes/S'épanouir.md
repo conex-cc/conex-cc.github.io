@@ -1,7 +1,7 @@
 ---
 type:
   - principe
-date: 2026-01-03
+date: 2026-01-17
 date création: 2024-06-12
 ---
 [[La vie]] - [[L'épanouissement]]

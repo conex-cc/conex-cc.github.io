@@ -4,7 +4,7 @@ Sous-type:
 date: 2026-01-17
 date création: 2025-11-06
 ---
-[[La difficulté]] - [[L'inconfort]]
+[[S'épanouir]] - [[La difficulté]] - [[L'inconfort]]
 ***
 Idéalement, en prenant un **max de plaisir**. C'est la game changer pour tenir sur le long terme.  
 *---*  
