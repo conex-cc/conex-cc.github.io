@@ -6,31 +6,40 @@ date création: 2024-06-12
 ---
 [[La vie]] - [[L'épanouissement]]
 ***
-# Définitions
-=> [[Prendre plaisir à vivre]] une existence intensément agréable.
+# **Définitions**
+=> **Prendre plaisir à vivre** une existence intensément agréable.
 - Besoin/**Objectif ultime** du [[Jeu de la vie]]
-- **Progresser**, **contempler** et **aimer** (= aider). Syn: Avancer, grandir
-
+- **Progresser**, **contempler** et **aimer** (= aider). Syn: Avancer, grandir  
 Le bonheur = la famille, l'amitié, l'amour, vivre de ces passions
 
+# **Méthodes**
+### Équation du bonheur
+*Prérequis*
+1. **Avoir envie d'être heureux**
+
+*L'équation*
+= Anticiper/**Combler nos besoins**   
+= Bien manger, bien dormir & bouger
+x [[Nouer des relations]] / Aimer (soi, les autres, et la nature), pour : S'entraider & Se soutenir
+x [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
+x [[Apprécier le silence]] 
+x Résoudre nos problèmes
+x Offrir ses solutions (ou les vendre si on a besoin de ramasser de l'argent)
+
+*Précision sur l'équation*
+- **Nouer des relations**
+	> « Dans la vie tu ne peux compter que sur **toi même**, mais tu n'y arrivera jamais sans **les autres** »
+- **Évoluer dans l'inconfort** - Idéalement, en prenant un max de plaisir (S'amuser/[[Délirer 🤣]]). C'est la game changer pour tenir sur le long terme. Reviens à [[Côtoyer l'absurde]].
+  > /!\ Toujours dans le respect de soi, des autres et de la nature (ex: on ne va pas s'amuser à jeter nos déchets par terre)
+- **Apprécier le silence** - Peut se traduire de divers façon : **contempler**, **méditer**, **prier**, **écouter**.
+- **Nouer des relations** - Apprendre à [[S'aimer pour aimer les autres]]
+
+**Note**: Si une action reflète aucune variable de cette équation alors l'action est probablement absurdement absurde. 
+
+
+
+***
 # Principes
-- Equation du bonheur :  
-	= **Bien manger**, **bien dormir** & **bouger**  
-	x [[Évoluer dans la difficulté de l'inconfort]] (seul & entre amis) en [[Suivre le sens donné à sa vie|suivant le sens donné à sa vie]]  
-	x [[Apprécier le silence]]  
-	x **S'entraider** pour anticiper/**combler nos besoins**  
-	x **Résoudre nos problèmes** en découlant  
-	x **Offrir ses solutions** (ou les vendre si on a besoin de ramasser de l'argent)
-
-Précision sur l'équation : 
-- (Progresser) - **Evoluer dans l'inconfort** en **l'acceptant**, **l'appréciant**, ou idéalement en **délirant/s'amusant**
-	- /!\ Toujours dans le respect de soi, des autres et de la nature (ex: on ne va pas s'amuser à jeter nos déchets par terre)
-	- Reviens à [[Côtoyer l'absurde]]
-- (Contempler) - **Apprécier le silence** peut se traduire de divers façon : **contempler**, **méditer**, **prier**, **écouter**.
-- (Aimer) - **S'entraider**  
-
-**Note**: Si une action reflète aucune variable de cette équation alors l'action est probablement absurdement absurde.  
-*--*  
 - Le sens de notre existence / **notre vocation**
 - pour **trouver un équilibre de vie**.
 	car [[S'épanouir est une question d'équilibre]]
@@ -46,6 +55,7 @@ Précision sur l'équation :
 
 - donc nécessite : apprendre, s'accomplir, grandir, évoluer, réussir, vivre des moments de complicité, etc.
 - donc [[Développer un mental]]
+	- car **il faut se battre** chaque jour pour être heureux
 
 - [[Tous les êtres vivants aspirent à s'épanouir]]
 - dans tous les cas [[Vivre est voué à l'échec]]

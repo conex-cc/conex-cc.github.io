@@ -10,6 +10,8 @@ Donner/Créer/Choisir (un sens) puis **suivre le sens donné à sa vie** (sa rai
 = **Combler** l'ensemble de **nos besoins** = Objectif de sa vie  
 = **Combler le besoin** spécifique de **Créer et de suivre le sens conceptuel donné à sa vie** = Un des obj de sa vie
 # Principes
+- [[Se battre pour devenir qui on a envie d'être]]
+*--*  
 - ~ est notre vocation, notre destinée
 - ~ pour avancer. (cf img: montagne/bateau) 
 - Chacun est libre de choisir le sens de sa vie
@@ -27,4 +29,4 @@ Le choix de la montagne importe peu, tant que son ascension nous fait grandir et
 \> (img: bateau) Un bateau pour avancer doit choisir une direction. La direction en soi importe peu mais il lui en faut une. Et bien sûr la direction peut changer, le bateau peut virer de bord
 
 *--*  
-\> [07/01/2026] s: Lucas Hof - <a href="http://youtube.com/post/Ugkx3G0pwLPWQtFN8I-vbqXMdyRr-W0JlapZ?si=oUfaJS-dMkNVTjBu" target="_blank">Trouve la direction</a> 
+\> [07/01/2026] s: Lucas Hof - <a href="http://youtube.com/post/Ugkx3G0pwLPWQtFN8I-vbqXMdyRr-W0JlapZ?si=oUfaJS-dMkNVTjBu" target="_blank">Trouve la direction</a> (post ytube)
