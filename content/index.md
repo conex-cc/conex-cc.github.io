@@ -20,7 +20,7 @@ Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces note
 PS : Les notes sont datées par leur date de mise à jour, cliquez sur un onglet du menu (Concepts, Principes, Réflexions) pour voir les notes récentes.
 
 
-Vous pouvez également aller voir mes écrits antérieurs sur mon ancien <a href="https://spiky-wildebeest-0fa.notion.site/Cr-ations-245c7951781381eda857c5e4b14028e5" target="-blank">blog Notion</a>. Et n'hésitez pas non plus à aller jeter un oeil à la <a href="https://youtube.com/playlist?list=PLpxZyZzI7a45cgXRkjTfq4UcWAWgrssYT&si=xH0QffPq1v_LdASL" target="_blank">playlist YouTube</a> rassemblant des vidéos inspirantes, nourrissant mes réflexions.
+Vous pouvez également aller jeter un oeil à la <a href="https://youtube.com/playlist?list=PLpxZyZzI7a45cgXRkjTfq4UcWAWgrssYT&si=xH0QffPq1v_LdASL" target="_blank">playlist YouTube</a> rassemblant des vidéos inspirantes, nourrissant mes réflexions.
 
 # Me contacter
 
