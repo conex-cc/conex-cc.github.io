@@ -16,6 +16,7 @@ Vous pouvez commencer par aller explorer « [[Qui suis-je]] ». Ou bien ces note
 - [[Évoluer dans la difficulté de l'inconfort]]
 - [[S'aimer pour aimer les autres]]
 - [[Délirer 🤣]]
+- [[Protection de la nature (présentation de sensibilisation)]]
 
 PS : Les notes sont datées par leur date de mise à jour, cliquez sur un onglet du menu (Concepts, Principes, Réflexions) pour voir les notes récentes.
 

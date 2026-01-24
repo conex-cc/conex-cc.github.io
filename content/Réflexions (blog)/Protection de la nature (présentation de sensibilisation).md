@@ -1,7 +1,8 @@
 ---
 Sous-type:
   - réflexion
-date: 2026-01-08
+date: 2026-01-13
+date création: 2026-01-08
 ---
 
 ***
