@@ -12,6 +12,19 @@ Aussi, n'hésitez pas à me contacter si vous souhaitez que j'anime cette prése
 
 # Principes
 - [[Protéger la nature]]
+
+# Ressources (Ytube)
+*Documentaire*  
+- <a href="https://www.youtube.com/watch?v=wYCzdDfjYbg">Le VIVANT qui se défend</a> par Vincent Verzat de **Partager c'est sympa**
+
+*Vidéos de la présentation*  
+- <a href="https://www.youtube.com/watch?v=gnqc37adZFQ">Le 7ème continent</a>, Initiative.fr
+- <a href="https://www.youtube.com/watch?v=Tr2Wj5ssrC0">Environnement un océan de déchet</a>, France 2
+- <a href="https://www.youtube.com/watch?v=TsfcEoeNY74">A Bottles Odyssey</a>, UN Environnement Programme  
+
+*Conférence*
+- <a href="https://www.youtube.com/watch?v=mHYA0o0MBTs">Le CV de la nature</a>, TEDx par Idriss Aberkane  
+
 ***
 
 ![[Protection de la nature - diapo1.JPG]]
