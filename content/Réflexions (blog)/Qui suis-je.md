@@ -34,7 +34,7 @@ Remarquez que la réponse à la question "Pourquoi vivre ?" semble être "Qui su
 Je m'explique. Qui suis-je ? A l'échelle de la vie, je suis un être vivant dotée de **besoin à combler** afin de vivre une existence agréable, c'est à dire afin de m'épanouir.  
 Donc, pourquoi vivre ? Pour **combler mes besoin** afin de vivre. En d'autre terme, notre raison d'être : vivre. Nous sommes voué à vivre, c'est notre vocation.  
 
-*--*
+*--*  
 **Égo** : Perception que l'on se fait de nous même, construite sur nos croyances.  
 **Connard** : Personne croyant ou faisant des choses irrespectueuse envers soi, les autres ou la Vie/Nature/Dieu (Nommez cette troisième dimension comme bon vous sembles).  
 **Le respect** : Action perpétuant la vie, c'est à dire de vivre sans détruire la vie. Implique en premier lieu de développer notre épanouissement, puis d'aider les autres à faire de même et laisser la nature s'épanouir sans la détruire.  
@@ -52,7 +52,7 @@ Une grand partie de **notre identité se construit sur nos croyances**. Alors qu
 Je crois que :  
 [[Vivre est complètement inutile et absurde]] en plus d'être inconfortable et difficile dès qu'on traverse des difficultés de la vie ou que l'on souhaite progresser. Mais d'un autre côté, il n'y a rien de plus étrange et mystérieux qu'être en vie, créant toute sa beauté.  
 Pour avoir envie d'avancer avec une telle perspective, il nous faut croire en quelque chose de grand et de beau. Afin de construire un sens conceptuel à notre vie, lui donnant un direction et donnant du sens à l'absurdité de la vie. En image, cela consiste à construire sa montagne à gravir puis de la gravir, petit pas par petit pas. Ce sens, gravir cette montagne deviendra la quête ultime de notre vie ([[Suivre le sens donné à sa vie]]).  
-Peut importe le sens construit, il doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature** En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens (un vide existentiel / un trou noir existentiel). Alors voici ce en quoi je crois construisant le sens de ma vie.  
+Peut importe le sens construit, il doit nécessairement contenir trois dimensions : **soi**, **l'autre** et **la nature**. En effet se déconnecter de soi, des autres ou de la nature entraînera inévitablement une perte de sens (un vide existentiel / un trou noir existentiel). Alors voici ce en quoi je crois construisant le sens de ma vie.  
 
 
 #### Credo
@@ -82,13 +82,13 @@ Amen.
 ####
 *---*  
 
-Ce credo constitue le base de la montagne de sens que je me suis construite et que j'ai entreprit à gravir. Le reste de cette montagne se constitue de l'ensemble de mes croyances en perpétuelles évolutions dont vous pouvez en découvrir un certains nombre sur ce blog.  
-Ainsi je vie pour cultiver :  
-- Mon amour propre (soi) : 
+Ce credo constitue le base de la montagne de sens que je me suis construite et que j'ai entreprit à gravir. Le reste de cette montagne se constitue de l'ensemble de mes croyances en perpétuelles évolutions dont vous pouvez en découvrir un certain nombre sur ce blog.  
+Ainsi je vis pour cultiver :  
+- Mon amour propre (soi) ([[S'aimer pour aimer les autres]]) : 
 	- En appréciant [[Évoluer dans la difficulté de l'inconfort]] à travers des explorations expérimentales (ex: prendre des douches froides, marcher pied nu, etc.), l'acrobatie, le chant, la danse, ou la réflexion.
 	- En prenant soins de ma santé. Que ce soit par l'alimentation ou le sport.
 - Mon amour pour les autres (l'autre)
-	- En semant la paix et la joie, en m'engagant dans des collectifs (groupe d'ami, asso, etc.) ouvert d'esprit pour faire évoluer nos croyances et nos valeurs.
+	- En semant la paix et la joie, en m'engagant dans des collectifs (groupe d'ami, asso, etc.) ouverts d'esprits pour faire évoluer nos croyances et nos valeurs.
 - Mon amour pour la nature (la nature)
 	- En la contemplant.
 	- En combattant pour la préserver dans un monde qui la détruit (\#désobéissance civile, car quand il y a des lois défendant la destruction de la nature, cela est nécessaire de s'y opposer)
