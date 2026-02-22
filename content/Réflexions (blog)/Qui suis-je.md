@@ -28,7 +28,7 @@ Construire son égo définissant son identité, ses croyances, nous permet de r�
 	- R : En comblant mes besoins en étant qui je veux être.
 - Que faire de ma vie ?
 	- R : Ce qui me permet de devenir qui je veux être
-- etc.
+- etc.  
 Remarquez que la réponse à la question "Pourquoi vivre ?" semble être "Qui suis-je ?"  
 => Pourquoi vivre ? Réponse : Réponse de la question : Qui suis-je ?  
 Je m'explique. Qui suis-je ? A l'échelle de la vie, je suis un être vivant dotée de **besoin à combler** afin de vivre une existence agréable, c'est à dire afin de m'épanouir.  
