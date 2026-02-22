@@ -3,7 +3,6 @@ type:
   - quotidienne
 date: 2026-01-08
 ---
-/!\ Vidéo pouvant choquer la sensibilité de certains /!\  
 [[2025-01-01 - Course pied nu dans la neige.mp4]]
 >Vidéo tournée le 08/01/2026 lors d'un l'épisode neigeux en région parisienne
 
