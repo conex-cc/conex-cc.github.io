@@ -19,8 +19,7 @@ date création: 2026-01-07
 - Réaliser ces passions
 
 # Réflexions
-\> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres et de la nature
-
+\> [27/12/2025] **Faire juste pour le fun**, pour délirer. Mais toujours dans le respect de soi, des autres et de la nature  
 Le fun se trouve dans des actions simples : courir, sauter, grimper, lancer, attraper, se déplacer de façon atypique (ex: accroupi), chanter, etc.  
 => Tu rigoles, tu prend la vie dans sa forme la plus simple, tu combles tes besoins et tu te sentiras heureux. ([[Combler nos besoins]] - [[S'épanouir]])
 
