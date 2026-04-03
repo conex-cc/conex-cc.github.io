@@ -91,7 +91,7 @@ Ainsi je vis pour cultiver :
 	- En semant la paix et la joie, en m'engagant dans des collectifs (groupe d'ami, asso, etc.) ouverts d'esprits pour faire évoluer nos croyances et nos valeurs.
 - Mon amour pour la nature (la nature)
 	- En la contemplant.
-	- En combattant pour la préserver dans un monde qui la détruit (\#désobéissance civile, car quand il y a des lois défendant la destruction de la nature, cela est nécessaire de s'y opposer)
+	- En combattant pour la préserver dans un monde qui la détruit (\#désobéissance civile - Car quand il y a des lois défendant la destruction de la nature, cela est nécessaire de s'y opposer)
 
 Voilà le sens (la montagne) que je me suis construite et que j'essaye de suivre (gravir) chaque jour de mon existence. Néanmoins parfois je doute, je me perd distrait par la facilité, le confort, et les petits plaisirs immédiats. Mais j'essaye de me recentrer afin de gravir tant bien que mal et jour après jour cette montagne.  
 Comme dirais Inoxtag : "Mentalité Kaizen !". Je vous laisse aller regarder ça vidéo sur son ascension du mont Everest pour comprendre cette ref : <a href="https://www.youtube.com/watch?v=wrFsapf0Enk" target="_blank">KAIZEN</a>
