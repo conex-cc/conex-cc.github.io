@@ -5,7 +5,7 @@ L'objectif répond à la question : Qu'est-ce qu'on veut faire sur scène, et tr
 Exemple : Je crée un spectacle pour :
 - Raconter une histoire 
 - Faire rire
-- Délirer
+- [[Délirer 🤣]]
 - Montrer mon niveau technique
 - Impressionner 
 - Transmettre des idées
