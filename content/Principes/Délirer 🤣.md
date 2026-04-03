@@ -27,7 +27,7 @@ Le fun se trouve dans des actions simples : courir, sauter, grimper, lancer, att
 J'ai un peu la flemme de devenir quelqu'un enfermé dans sa routine dévoué pour son travail, ayant perdu toute sa joie de vivre. Se préoccupant uniquement de choses extérieurs à soi-même, oubliant de prendre du temps pour soi. En regardant autour de moi, cela semble être la réalité de beaucoup, mais leur vie ne vend pas du rêve.
 # Inspirations
 - **S'enjailler sur une chanson aux paroles absurdes**  
-  #\truite_sardine, dédicace aux copains de ce délire initié par l'ami Élie (cf <a href="https://www.instagram.com/reel/DPWi8IJiP2x/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">post insta</a> - <a href="https://on.soundcloud.com/VPHzM8wTyFfHrN0QYQ" target="_blank">soundclound</a>)   
+  #\truite_sardine, dédicace aux copains de ce délire initié par l'ami Élie (cf <a href="https://www.instagram.com/p/DPWi8IJiP2x/" target="_blank">post insta</a> - <a href="https://on.soundcloud.com/VPHzM8wTyFfHrN0QYQ" target="_blank">soundclound</a>)   
 	Puis une création personnelle ![[2025-10-30 - Délire truite sardine.m4a]] Puis la création des copains 😂
 	![[2025-10-30 - Délire truite sardine (polyphonie).m4a]]
 - **Courir pied nu** (et torse nu) **dans la forêt** (en hiver (dans la neige))
