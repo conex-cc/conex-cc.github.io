@@ -23,10 +23,10 @@ Exemple : Je crée un spectacle pour :
 ## Comment [obj de la création] ?
 
 ## Balancer toutes ses idées sans jugement
-### - [[Créer un imaginaire]]
 
 ## Faire le trie et assembler les idées
 Pour construire qqch de cohérent & aligné à l'objectif d'action de la création défini
+### - [[Créer un imaginaire]]
 
 ## Jouer
 ### - [[S'amuser à divertir un public]]

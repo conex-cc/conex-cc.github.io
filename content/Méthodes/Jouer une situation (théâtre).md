@@ -47,11 +47,11 @@ Mais tous les personnages ne sont pas obligé d'avoir un enjeu
 #### Les enjeux créent du jeux
 
 #### Créer de la tension
-##### Les enjeux en dualité crée de la tension
+##### - Les enjeux en dualité crée de la tension
 Dualité = contraire ou incompatible.  
 Contraire : Combattre l'ennemie / Fuir  
 Incompatible : Gagner le jeux - Il ne peut y avoir qu'un gagnant  
-##### Ajouter des contraintes à l'enjeu
+##### - Ajouter des contraintes à l'enjeu
 Crée de la difficulté & de la tension.  
 [Objectif] à tout prix. **Malgré [contrainte]**. Sinon [csq négative].  
 Ex (Koh-Lanta) : Gagner l'épreuve d'immunité à tout prix. Malgré la faim et le manque d'énergie. Sinon on ira au conseil éliminatoire.
